@@ -1448,35 +1448,35 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4060503456540194, guid: ffb7771471de3c748b9f607de264f850, type: 2}
+    - target: {fileID: 4838824285329072, guid: ffb7771471de3c748b9f607de264f850, type: 2}
       propertyPath: m_LocalPosition.x
       value: 5.12
       objectReference: {fileID: 0}
-    - target: {fileID: 4060503456540194, guid: ffb7771471de3c748b9f607de264f850, type: 2}
+    - target: {fileID: 4838824285329072, guid: ffb7771471de3c748b9f607de264f850, type: 2}
       propertyPath: m_LocalPosition.y
       value: 0.73
       objectReference: {fileID: 0}
-    - target: {fileID: 4060503456540194, guid: ffb7771471de3c748b9f607de264f850, type: 2}
+    - target: {fileID: 4838824285329072, guid: ffb7771471de3c748b9f607de264f850, type: 2}
       propertyPath: m_LocalPosition.z
       value: 2.91
       objectReference: {fileID: 0}
-    - target: {fileID: 4060503456540194, guid: ffb7771471de3c748b9f607de264f850, type: 2}
+    - target: {fileID: 4838824285329072, guid: ffb7771471de3c748b9f607de264f850, type: 2}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4060503456540194, guid: ffb7771471de3c748b9f607de264f850, type: 2}
+    - target: {fileID: 4838824285329072, guid: ffb7771471de3c748b9f607de264f850, type: 2}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4060503456540194, guid: ffb7771471de3c748b9f607de264f850, type: 2}
+    - target: {fileID: 4838824285329072, guid: ffb7771471de3c748b9f607de264f850, type: 2}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4060503456540194, guid: ffb7771471de3c748b9f607de264f850, type: 2}
+    - target: {fileID: 4838824285329072, guid: ffb7771471de3c748b9f607de264f850, type: 2}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4060503456540194, guid: ffb7771471de3c748b9f607de264f850, type: 2}
+    - target: {fileID: 4838824285329072, guid: ffb7771471de3c748b9f607de264f850, type: 2}
       propertyPath: m_RootOrder
       value: 21
       objectReference: {fileID: 0}
@@ -1675,7 +1675,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!81 &534669903
 AudioListener:
   m_ObjectHideFlags: 0
